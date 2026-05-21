@@ -1,0 +1,451 @@
+id;title;genres;budget_millions;vote_average;vote_count
+19995;Avatar;Action Adventure Fantasy Science Fiction;237.00;7.2;11800
+285;Pirates of the Caribbean: At World's End;Adventure Fantasy Action;300.00;6.9;4500
+206647;Spectre;Action Adventure Crime;245.00;6.3;4466
+49026;The Dark Knight Rises;Action Crime Drama Thriller;250.00;7.6;9106
+49529;John Carter;Action Adventure Science Fiction;260.00;6.1;2124
+559;Spider-Man 3;Fantasy Action Adventure;258.00;5.9;3576
+38757;Tangled;Animation Family;260.00;7.4;3330
+99861;Avengers: Age of Ultron;Action Adventure Science Fiction;280.00;7.3;6767
+767;Harry Potter and the Half-Blood Prince;Adventure Fantasy Family;250.00;7.4;5293
+209112;Batman v Superman: Dawn of Justice;Action Adventure Fantasy;250.00;5.7;7004
+1452;Superman Returns;Adventure Fantasy Action Science Fiction;270.00;5.4;1400
+10764;Quantum of Solace;Adventure Action Thriller Crime;200.00;6.1;2965
+58;Pirates of the Caribbean: Dead Man's Chest;Adventure Fantasy Action;200.00;7.0;5246
+57201;The Lone Ranger;Action Adventure Western;255.00;5.9;2311
+49521;Man of Steel;Action Adventure Fantasy Science Fiction;225.00;6.5;6359
+2454;The Chronicles of Narnia: Prince Caspian;Adventure Family Fantasy;225.00;6.3;1630
+24428;The Avengers;Science Fiction Action Adventure;220.00;7.4;11776
+1865;Pirates of the Caribbean: On Stranger Tides;Adventure Action Fantasy;380.00;6.4;4948
+41154;Men in Black 3;Action Comedy Science Fiction;225.00;6.2;4160
+122917;The Hobbit: The Battle of the Five Armies;Action Adventure Fantasy;250.00;7.1;4760
+1930;The Amazing Spider-Man;Action Adventure Fantasy;215.00;6.5;6586
+20662;Robin Hood;Action Adventure;200.00;6.2;1398
+57158;The Hobbit: The Desolation of Smaug;Adventure Fantasy;250.00;7.6;4524
+2268;The Golden Compass;Adventure Fantasy;180.00;5.8;1303
+254;King Kong;Adventure Drama Action;207.00;6.6;2337
+597;Titanic;Drama Romance Thriller;200.00;7.5;7562
+271110;Captain America: Civil War;Adventure Action Science Fiction;250.00;7.1;7241
+44833;Battleship;Thriller Action Adventure Science Fiction;209.00;5.5;2114
+135397;Jurassic World;Action Adventure Science Fiction Thriller;150.00;6.5;8662
+37724;Skyfall;Action Adventure Thriller;200.00;6.9;7604
+558;Spider-Man 2;Action Adventure Fantasy;200.00;6.7;4321
+68721;Iron Man 3;Action Adventure Science Fiction;200.00;6.8;8806
+12155;Alice in Wonderland;Family Fantasy Adventure;200.00;6.4;4645
+36668;X-Men: The Last Stand;Adventure Action Science Fiction Thriller;210.00;6.3;3525
+62211;Monsters University;Animation Family;200.00;7.0;3528
+8373;Transformers: Revenge of the Fallen;Science Fiction Action Adventure;150.00;6.0;3138
+91314;Transformers: Age of Extinction;Science Fiction Action Adventure;210.00;5.8;3095
+68728;Oz: The Great and Powerful;Fantasy Adventure Family;200.00;5.7;3530
+102382;The Amazing Spider-Man 2;Action Adventure Fantasy;200.00;6.5;4179
+20526;TRON: Legacy;Adventure Action Science Fiction;170.00;6.3;2841
+49013;Cars 2;Animation Family Adventure Comedy;200.00;5.8;2033
+44912;Green Lantern;Adventure Action Thriller Science Fiction;200.00;5.1;2487
+10193;Toy Story 3;Animation Family Comedy;200.00;7.6;4597
+534;Terminator Salvation;Action Science Fiction Thriller;200.00;5.9;2463
+168259;Furious 7;Action;190.00;7.3;4176
+72190;World War Z;Action Drama Horror Science Fiction Thriller;200.00;6.7;5560
+127585;X-Men: Days of Future Past;Action Adventure Fantasy Science Fiction;250.00;7.5;6032
+54138;Star Trek Into Darkness;Action Adventure Science Fiction;190.00;7.4;4418
+81005;Jack the Giant Slayer;Action Family Fantasy;195.00;5.5;2598
+64682;The Great Gatsby;Drama Romance;105.00;7.3;3769
+9543;Prince of Persia: The Sands of Time;Adventure Fantasy Action Romance;150.00;6.2;2317
+68726;Pacific Rim;Action Science Fiction Adventure;180.00;6.7;4794
+38356;Transformers: Dark of the Moon;Action Science Fiction Adventure;195.00;6.1;3299
+217;Indiana Jones and the Kingdom of the Crystal Skull;Adventure Action;185.00;5.7;2495
+105864;The Good Dinosaur;Adventure Animation Family;175.00;6.6;1736
+62177;Brave;Animation Adventure Comedy Family Action;185.00;6.7;4641
+188927;Star Trek Beyond;Action Adventure Science Fiction;185.00;6.6;2568
+10681;WALL·E;Animation Family;180.00;7.8;6296
+5174;Rush Hour 3;Action Comedy Crime Thriller;140.00;6.1;783
+14161;2012;Action Adventure Science Fiction;200.00;5.6;4903
+17979;A Christmas Carol;Animation Drama;200.00;6.6;1095
+76757;Jupiter Ascending;Science Fiction Fantasy Action Adventure;176.00;5.2;2768
+258489;The Legend of Tarzan;Action Adventure;180.00;5.5;2430
+411;The Chronicles of Narnia: The Lion, the Witch and the Wardrobe;Adventure Family Fantasy;180.00;6.7;2629
+246655;X-Men: Apocalypse;Science Fiction;178.00;6.4;4721
+155;The Dark Knight;Drama Action Crime Thriller;185.00;8.2;12002
+14160;Up;Animation Comedy Family Adventure;175.00;7.7;6870
+15512;Monsters vs Aliens;Animation Family Adventure Science Fiction;175.00;6.0;1423
+1726;Iron Man;Action Science Fiction Adventure;140.00;7.4;8776
+44826;Hugo;Adventure Drama Family;170.00;7.0;2141
+8487;Wild Wild West;Action Adventure Comedy Science Fiction Western;170.00;5.1;1020
+1735;The Mummy: Tomb of the Dragon Emperor;Adventure Action Fantasy;145.00;5.2;1387
+297761;Suicide Squad;Action Adventure Crime Fantasy Science Fiction;175.00;5.9;7458
+2698;Evan Almighty;Fantasy Comedy Family;175.00;5.3;1151
+137113;Edge of Tomorrow;Action Science Fiction;178.00;7.6;4858
+9804;Waterworld;Adventure Action;175.00;5.9;992
+14869;G.I. Joe: The Rise of Cobra;Adventure Action Thriller Science Fiction;175.00;5.6;1962
+150540;Inside Out;Drama Comedy Animation Family;175.00;8.0;6560
+278927;The Jungle Book;Family Adventure Drama Fantasy;175.00;6.7;2892
+10138;Iron Man 2;Adventure Action Science Fiction;200.00;6.6;6849
+58595;Snow White and the Huntsman;Adventure Fantasy Drama;170.00;5.8;3118
+102651;Maleficent;Fantasy Adventure Action Family Romance;180.00;7.0;4496
+119450;Dawn of the Planet of the Apes;Science Fiction Action Drama Thriller;170.00;7.3;4410
+79698;The Lovers;Action Adventure Science Fiction Romance;27.00;4.8;34
+64686;47 Ronin;Drama Action Adventure Fantasy;175.00;5.9;1326
+100402;Captain America: The Winter Soldier;Action Adventure Science Fiction;170.00;7.6;5764
+10192;Shrek Forever After;Comedy Adventure Fantasy Animation Family;165.00;6.0;1959
+158852;Tomorrowland;Adventure Family Mystery Science Fiction;190.00;6.2;2846
+177572;Big Hero 6;Adventure Family Animation Action Comedy;165.00;7.8;6135
+82690;Wreck-It Ralph;Family Animation Comedy Adventure;165.00;7.1;4570
+5255;The Polar Express;Adventure Animation Family Fantasy;165.00;6.4;1474
+47933;Independence Day: Resurgence;Action Adventure Science Fiction;165.00;4.9;2491
+10191;How to Train Your Dragon;Fantasy Adventure Animation Family;165.00;7.5;4227
+296;Terminator 3: Rise of the Machines;Action Thriller Science Fiction;200.00;5.9;2143
+118340;Guardians of the Galaxy;Action Science Fiction Adventure;170.00;7.9;9742
+157336;Interstellar;Adventure Drama Science Fiction;165.00;8.1;10867
+27205;Inception;Action Thriller Science Fiction Mystery Adventure;160.00;8.1;13752
+315011;Shin Godzilla;Action Adventure Drama Horror Science Fiction;15.00;6.5;143
+49051;The Hobbit: An Unexpected Journey;Adventure Fantasy Action;250.00;7.0;8297
+9799;The Fast and the Furious;Action Crime Thriller;38.00;6.6;3428
+4922;The Curious Case of Benjamin Button;Fantasy Drama Thriller Mystery Romance;150.00;7.3;3292
+49538;X-Men: First Class;Action Science Fiction Adventure;160.00;7.1;5181
+131634;The Hunger Games: Mockingjay - Part 2;Action Adventure Science Fiction;160.00;6.6;3984
+27022;The Sorcerer's Apprentice;Fantasy Adventure Action Comedy Drama;150.00;5.8;1470
+503;Poseidon;Adventure Action Drama Thriller;160.00;5.5;583
+241259;Alice Through the Looking Glass;Fantasy;170.00;6.5;1725
+810;Shrek the Third;Fantasy Adventure Animation Comedy Family;160.00;6.0;2278
+68735;Warcraft;Action Adventure Fantasy;160.00;6.3;2268
+87101;Terminator Genisys;Science Fiction Action Thriller Adventure;155.00;5.8;3631
+10140;The Chronicles of Narnia: The Voyage of the Dawn Treader;Adventure Family Fantasy;155.00;6.2;1514
+676;Pearl Harbor;History Romance War;140.00;6.6;1791
+1858;Transformers;Adventure Science Fiction Action;150.00;6.6;4040
+1966;Alexander;War History Action Adventure Drama;155.00;5.6;927
+675;Harry Potter and the Order of the Phoenix;Adventure Fantasy Family Mystery;150.00;7.4;5494
+674;Harry Potter and the Goblet of Fire;Adventure Fantasy Family;150.00;7.5;5608
+8960;Hancock;Fantasy Action;150.00;6.2;2961
+6479;I Am Legend;Drama Horror Action Thriller Science Fiction;150.00;6.9;4853
+118;Charlie and the Chocolate Factory;Adventure Comedy Family Fantasy;150.00;6.7;3624
+2062;Ratatouille;Animation Comedy Family Fantasy;150.00;7.5;4369
+272;Batman Begins;Action Crime Drama;150.00;7.5;7359
+10527;Madagascar: Escape 2 Africa;Family Animation;150.00;6.2;1810
+18360;Night at the Museum: Battle of the Smithsonian;Adventure Fantasy Action Comedy Family;150.00;5.9;1971
+2080;X-Men Origins: Wolverine;Adventure Action Thriller Science Fiction;150.00;6.2;4021
+605;The Matrix Revolutions;Adventure Action Thriller Science Fiction;150.00;6.4;3096
+109445;Frozen;Animation Adventure Family;150.00;7.3;5295
+604;The Matrix Reloaded;Adventure Action Thriller Science Fiction;150.00;6.7;3443
+76338;Thor: The Dark World;Action Adventure Fantasy;170.00;6.8;4755
+76341;Mad Max: Fury Road;Action Adventure Science Fiction Thriller;150.00;7.2;9427
+13448;Angels & Demons;Thriller Mystery;150.00;6.5;2129
+10195;Thor;Adventure Fantasy Action;150.00;6.6;6525
+13053;Bolt;Animation Family Adventure Comedy;150.00;6.3;1750
+19585;G-Force;Fantasy Action Adventure Family Comedy;150.00;5.1;510
+57165;Wrath of the Titans;Adventure;150.00;5.5;1431
+62213;Dark Shadows;Comedy Fantasy;150.00;5.7;2320
+177677;Mission: Impossible - Rogue Nation;Action Adventure Thriller;150.00;7.1;3224
+7978;The Wolfman;Drama Horror Thriller;150.00;5.5;549
+5559;Bee Movie;Family Animation Adventure Comedy;150.00;5.7;1171
+49444;Kung Fu Panda 2;Animation Family;150.00;6.7;1880
+10196;The Last Airbender;Action Adventure Family Fantasy;150.00;4.7;1151
+956;Mission: Impossible III;Adventure Action Thriller;150.00;6.5;2028
+117251;White House Down;Action Drama Thriller;150.00;6.4;1891
+50321;Mars Needs Moms;Adventure Animation Family;150.00;5.5;199
+11619;Flushed Away;Adventure Animation Comedy Family;149.00;6.0;874
+266647;Pan;Adventure Family Fantasy;150.00;5.9;954
+82703;Mr. Peabody & Sherman;Animation Adventure Family;145.00;6.7;843
+652;Troy;Adventure Drama War;175.00;6.9;2759
+80321;Madagascar 3: Europe's Most Wanted;Animation Family;145.00;6.4;1808
+36669;Die Another Day;Adventure Action Thriller;140.00;5.8;1092
+43074;Ghostbusters;Action Fantasy Comedy;144.00;5.3;2142
+95;Armageddon;Action Thriller Science Fiction Adventure;140.00;6.4;2482
+608;Men in Black II;Action Adventure Comedy Science Fiction;140.00;6.0;3114
+2310;Beowulf;Adventure Action Animation;70.00;5.5;841
+140300;Kung Fu Panda 3;Action Adventure Animation Comedy Family;145.00;6.7;1603
+56292;Mission: Impossible - Ghost Protocol;Action Thriller Adventure;145.00;6.8;3972
+81188;Rise of the Guardians;Fantasy Animation Family;145.00;7.1;1922
+7552;Fun with Dick and Jane;Comedy;100.00;5.9;627
+616;The Last Samurai;Drama Action War History;140.00;7.3;1895
+147441;Exodus: Gods and Kings;Adventure Drama Action;140.00;5.6;1921
+13475;Star Trek;Science Fiction Action Adventure;150.00;7.4;4518
+557;Spider-Man;Fantasy Action;139.00;6.8;5265
+82702;How to Train Your Dragon 2;Fantasy Action Adventure Animation Comedy;145.00;7.6;3106
+205584;Gods of Egypt;Fantasy;140.00;5.3;1277
+10048;Stealth;Action;135.00;4.9;331
+13183;Watchmen;Action Mystery Science Fiction;130.00;7.0;2811
+944;Lethal Weapon 4;Action Adventure Comedy Crime Thriller;140.00;6.3;767
+1927;Hulk;Drama Action Science Fiction;137.00;5.3;1533
+72559;G.I. Joe: Retaliation;Adventure Action Science Fiction Thriller;130.00;5.4;3025
+7364;Sahara;Action Adventure Comedy Drama Mystery;130.00;5.7;434
+2114;Final Fantasy: The Spirits Within;Adventure Action Animation Fantasy Science Fiction;137.00;5.9;433
+1771;Captain America: The First Avenger;Action Adventure Science Fiction;140.00;6.6;7047
+36643;The World Is Not Enough;Adventure Action Thriller;135.00;6.0;862
+8619;Master and Commander: The Far Side of the World;Adventure;150.00;6.9;790
+50620;The Twilight Saga: Breaking Dawn - Part 2;Adventure Fantasy Drama Romance;120.00;6.1;2553
+65759;Happy Feet Two;Animation Comedy Family;130.00;5.8;373
+1724;The Incredible Hulk;Science Fiction Action Adventure;150.00;6.1;3021
+267935;The BFG;Adventure Family Fantasy;140.00;6.0;1000
+281957;The Revenant;Western Drama Adventure Thriller;135.00;7.3;6396
+77950;Turbo;Animation Family;135.00;6.1;1074
+44896;Rango;Animation Comedy Family Western Adventure;135.00;6.6;2051
+270946;Penguins of Madagascar;Family Animation Adventure Comedy;132.00;6.5;1346
+2503;The Bourne Ultimatum;Action Drama Mystery Thriller;70.00;7.3;2888
+9502;Kung Fu Panda;Adventure Animation Family Comedy;130.00;6.9;3145
+102899;Ant-Man;Science Fiction Action Adventure;130.00;7.0;5880
+101299;The Hunger Games: Catching Fire;Adventure Action Science Fiction;130.00;7.4;6495
+228161;Home;Fantasy Comedy Animation Science Fiction Family;135.00;6.8;1519
+74;War of the Worlds;Adventure Thriller Science Fiction;132.00;6.2;2322
+8961;Bad Boys II;Adventure Action Comedy Thriller Crime;130.00;6.3;1564
+417859;Puss in Boots;Action Adventure Animation Family Fantasy;130.00;6.4;451
+27576;Salt;Action Mystery Thriller;110.00;6.2;2093
+86834;Noah;Drama Adventure;125.00;5.6;2350
+17578;The Adventures of Tintin;Adventure Animation Mystery;130.00;6.7;2061
+673;Harry Potter and the Prisoner of Azkaban;Adventure Fantasy Family;130.00;7.7;5877
+6972;Australia;Drama;130.00;6.3;694
+82700;After Earth;Science Fiction Action Adventure;130.00;5.0;2532
+10567;Dinosaur;Animation Family;127.50;6.2;542
+181533;Night at the Museum: Secret of the Tomb;Adventure Comedy Fantasy Family;127.00;6.1;1851
+38055;Megamind;Animation Action Comedy Family Science Fiction;130.00;6.7;1918
+671;Harry Potter and the Philosopher's Stone;Adventure Fantasy Family;125.00;7.5;7006
+49524;R.I.P.D.;Fantasy Action Comedy Crime;130.00;5.4;1260
+22;Pirates of the Caribbean: The Curse of the Black Pearl;Adventure Fantasy Action;140.00;7.5;6985
+131631;The Hunger Games: Mockingjay - Part 1;Science Fiction Adventure Thriller;125.00;6.6;5584
+591;The Da Vinci Code;Thriller Mystery;125.00;6.5;2704
+172385;Rio 2;Animation Adventure Comedy Family;103.00;6.3;978
+36658;X2;Adventure Action Science Fiction Thriller;110.00;6.8;3506
+51497;Fast Five;Action Thriller Crime;125.00;7.1;2438
+58574;Sherlock Holmes: A Game of Shadows;Adventure Action Crime Mystery;125.00;7.0;3886
+18823;Clash of the Titans;Adventure Fantasy Action;125.00;5.6;2233
+861;Total Recall;Action Adventure Science Fiction;65.00;7.1;1710
+1911;The 13th Warrior;Adventure Fantasy Action;160.00;6.4;510
+49040;The Bourne Legacy;Action Thriller;130.00;6.0;2651
+415;Batman & Robin;Action Crime Fantasy;125.00;4.2;1418
+8871;How the Grinch Stole Christmas;Family Comedy Fantasy;123.00;6.2;1386
+435;The Day After Tomorrow;Action Adventure Science Fiction Thriller;125.00;6.2;2392
+955;Mission: Impossible II;Adventure Action Thriller;125.00;5.9;1928
+2133;The Perfect Storm;Drama;120.00;6.2;597
+1979;Fantastic 4: Rise of the Silver Surfer;Adventure Fantasy Action Thriller;130.00;5.4;2589
+87827;Life of Pi;Adventure Drama Action;120.00;7.2;5797
+1250;Ghost Rider;Thriller Action Fantasy Horror;110.00;5.2;1712
+324668;Jason Bourne;Action Thriller;120.00;5.9;2341
+9471;Charlie's Angels: Full Throttle;Action Adventure Comedy;120.00;5.2;914
+70981;Prometheus;Science Fiction Adventure Mystery;130.00;6.3;5080
+10996;Stuart Little 2;Family Adventure Animation Comedy;120.00;5.4;613
+68724;Elysium;Science Fiction Action Drama Thriller;115.00;6.4;3439
+2789;The Chronicles of Riddick;Action Science Fiction;105.00;6.3;1570
+97020;RoboCop;Action Science Fiction;120.00;5.7;2342
+7459;Speed Racer;Action Family Science Fiction;120.00;5.7;354
+42888;How Do You Know;Comedy Drama Romance;120.00;4.9;223
+37834;Knight and Day;Action Comedy;117.00;5.9;1547
+75612;Oblivion;Action Science Fiction Adventure Mystery;120.00;6.4;4800
+1895;Star Wars: Episode III - Revenge of the Sith;Science Fiction Adventure Action;113.00;7.1;4116
+1894;Star Wars: Episode II - Attack of the Clones;Adventure Action Science Fiction;120.00;6.4;3992
+585;Monsters, Inc.;Animation Comedy Family;115.00;7.5;5996
+76170;The Wolverine;Action Science Fiction Adventure Fantasy;120.00;6.3;4053
+1893;Star Wars: Episode I - The Phantom Menace;Adventure Action Science Fiction;115.00;6.3;4432
+49519;The Croods;Adventure Animation Comedy Family Fantasy;135.00;6.8;2399
+2395;Asterix at the Olympic Games;Fantasy Adventure Comedy Family;97.25;5.0;471
+12100;Windtalkers;Drama Action History War;115.00;5.8;341
+290595;The Huntsman: Winter's War;Action Adventure Drama;115.00;6.0;1523
+98566;Teenage Mutant Ninja Turtles;Science Fiction Action Adventure Fantasy Comedy;125.00;5.8;2636
+49047;Gravity;Science Fiction Thriller Drama;105.00;7.3;5751
+9619;Dante's Peak;Action Adventure Thriller;116.00;5.7;428
+308531;Teenage Mutant Ninja Turtles: Out of the Shadows;Fantasy Action Adventure Comedy;135.00;5.8;963
+166424;Fantastic Four;Action Adventure Science Fiction;120.00;4.4;2278
+1593;Night at the Museum;Action Adventure Comedy Family Fantasy;110.00;6.3;2862
+254128;San Andreas;Action Drama Thriller;110.00;6.0;2968
+714;Tomorrow Never Dies;Adventure Action Thriller;110.00;6.0;925
+2024;The Patriot;Drama History War Action;110.00;6.8;1099
+163;Ocean's Twelve;Thriller Crime;110.00;6.4;2124
+787;Mr. & Mrs. Smith;Action Comedy Drama Thriller;110.00;6.5;2965
+262500;Insurgent;Adventure Science Fiction Thriller;110.00;6.2;3829
+2567;The Aviator;Drama;116.00;7.0;1489
+38745;Gulliver's Travels;Comedy;112.00;4.9;621
+40805;The Green Hornet;Action Crime Comedy;120.00;5.5;1251
+53182;300: Rise of an Empire;Action War;110.00;6.1;2397
+41513;The Smurfs;Animation Family Adventure Comedy Fantasy;110.00;5.5;1179
+13700;Home on the Range;Animation Family;110.00;5.7;389
+262504;Allegiant;Adventure Science Fiction;110.00;5.9;1998
+39254;Real Steel;Action Science Fiction Drama;110.00;6.6;2692
+77931;The Smurfs 2;Fantasy Family Comedy Animation;105.00;5.5;695
+1639;Speed 2: Cruise Control;Action Adventure Thriller;160.00;4.1;434
+80274;Ender's Game;Science Fiction Action Adventure;110.00;6.6;2303
+1571;Live Free or Die Hard;Action Thriller;110.00;6.4;2089
+120;The Lord of the Rings: The Fellowship of the Ring;Adventure Fantasy Action;93.00;8.0;8705
+10204;Around the World in 80 Days;Action Adventure Comedy;110.00;5.7;672
+8489;Ali;Drama;107.00;6.7;447
+2048;I, Robot;Action Science Fiction;120.00;6.7;3793
+1495;Kingdom of Heaven;Drama Action Adventure History War;130.00;6.6;1157
+10137;Stuart Little;Animation Fantasy Family Comedy;133.00;5.8;959
+10198;The Princess and the Frog;Romance Family Animation Music;105.00;6.7;1247
+286217;The Martian;Drama Adventure Science Fiction;108.00;7.6;7268
+1635;The Island;Action Thriller Science Fiction Adventure;126.00;6.5;1770
+24113;Town & Country;Comedy Romance;90.00;3.7;16
+9679;Gone in Sixty Seconds;Action Crime Thriller;90.00;6.1;1485
+98;Gladiator;Action Drama Adventure;103.00;7.9;5439
+180;Minority Report;Action Thriller Science Fiction Mystery;102.00;7.1;2608
+672;Harry Potter and the Chamber of Secrets;Adventure Fantasy Family;100.00;7.4;5815
+36557;Casino Royale;Adventure Action Thriller;150.00;7.3;3855
+869;Planet of the Apes;Thriller Science Fiction Action Adventure;100.00;5.6;1243
+280;Terminator 2: Judgment Day;Action Thriller Science Fiction;100.00;7.7;4185
+11322;Public Enemies;History Crime Drama;80.00;6.5;1344
+4982;American Gangster;Drama Crime;100.00;7.4;1502
+36955;True Lies;Action Thriller;115.00;6.8;1116
+18487;The Taking of Pelham 1 2 3;Thriller Drama Crime;100.00;6.2;954
+39451;Little Fockers;Comedy Romance;100.00;5.4;1060
+27581;The Other Guys;Action Comedy Crime;100.00;6.1;1383
+9268;Eraser;Action Drama Mystery Thriller;100.00;5.6;543
+68718;Django Unchained;Drama Western;100.00;7.8;10099
+10545;The Hunchback of Notre Dame;Drama Animation Family;100.00;6.8;1129
+11688;The Emperor's New Groove;Adventure Animation Comedy Family Fantasy;100.00;7.2;1490
+76163;The Expendables 2;Action Adventure Thriller;100.00;6.1;2896
+2059;National Treasure;Adventure Action Thriller Mystery;100.00;6.4;1926
+2486;Eragon;Fantasy Action Adventure Family;100.00;4.9;967
+16523;Where the Wild Things Are;Family Fantasy;100.00;6.4;572
+116711;Epic;Animation Adventure Family Fantasy;100.00;6.4;1121
+37710;The Tourist;Action Thriller Romance;100.00;6.0;1699
+9946;End of Days;Action Fantasy Horror Mystery;100.00;5.5;482
+1372;Blood Diamond;Drama Thriller Action;100.00;7.3;2281
+106646;The Wolf of Wall Street;Crime Drama Comedy;100.00;7.9;6571
+414;Batman Forever;Action Crime Fantasy;100.00;5.2;1498
+563;Starship Troopers;Adventure Action Thriller Science Fiction;105.00;6.7;1560
+83542;Cloud Atlas;Drama Science Fiction;102.00;6.6;2977
+41216;Legend of the Guardians: The Owls of Ga'Hoole;Animation Adventure Family Fantasy;80.00;6.5;703
+314;Catwoman;Action Crime;100.00;4.2;808
+184315;Hercules;Action Adventure;100.00;5.6;1680
+9016;Treasure Planet;Adventure Animation Family Fantasy Science Fiction;140.00;7.2;948
+18162;Land of the Lost;Adventure Comedy Science Fiction;100.00;5.3;381
+138103;The Expendables 3;Action Adventure Thriller;90.00;6.1;1795
+257088;Point Break;Action Crime Thriller;105.00;5.5;783
+10214;Son of the Mask;Fantasy Comedy Family Adventure;84.00;3.6;338
+205775;In the Heart of the Sea;Thriller Drama Adventure Action History;100.00;6.5;1276
+11692;The Adventures of Pluto Nash;Action Comedy Science Fiction;100.00;4.4;142
+22972;Green Zone;War Action Adventure Drama Thriller;100.00;6.4;717
+227973;The Peanuts Movie;Animation;99.00;6.5;604
+29193;The Spanish Prisoner;Crime Drama Mystery Thriller;10.00;7.1;73
+1734;The Mummy Returns;Adventure Action Fantasy;98.00;6.0;2206
+3131;Gangs of New York;Drama History Crime;100.00;7.1;1910
+76758;The Flowers of War;Drama History War;94.00;7.1;187
+9408;Surf's Up;Animation Comedy Family;85.00;5.9;601
+9890;The Stepford Wives;Action Comedy Science Fiction;90.00;5.4;334
+855;Black Hawk Down;Action History War;92.00;7.2;1811
+18;The Fifth Element;Adventure Fantasy Action Thriller Science Fiction;90.00;7.3;3885
+37786;Sex and the City 2;Comedy Drama Romance;100.00;5.4;426
+10501;The Road to El Dorado;Adventure Animation Comedy Family;95.00;7.0;858
+57800;Ice Age: Continental Drift;Animation Comedy Adventure Family;95.00;6.2;2672
+150689;Cinderella;Romance Fantasy Family Drama;95.00;6.7;2374
+7980;The Lovely Bones;Fantasy Drama;65.00;6.6;1065
+12;Finding Nemo;Animation Family;94.00;7.6;6122
+122;The Lord of the Rings: The Return of the King;Adventure Fantasy Action;94.00;8.1;8064
+121;The Lord of the Rings: The Two Towers;Adventure Fantasy Action;79.00;8.0;7487
+68737;Seventh Son;Adventure Fantasy;95.00;5.2;957
+1995;Lara Croft: Tomb Raider;Adventure Fantasy Action Thriller;115.00;5.7;2192
+157353;Transcendence;Thriller Science Fiction Drama Mystery;100.00;5.9;2295
+331;Jurassic Park III;Adventure Action Thriller Science Fiction;93.00;5.7;2077
+61791;Rise of the Planet of the Apes;Thriller Action Drama Science Fiction;93.00;7.0;4347
+8204;The Spiderwick Chronicles;Adventure Family Fantasy;90.00;6.3;572
+47964;A Good Day to Die Hard;Action Thriller;92.00;5.2;3493
+10733;The Alamo;Western History War;145.00;5.8;106
+9806;The Incredibles;Action Adventure Animation Family;92.00;7.4;5152
+1408;Cutthroat Island;Action Adventure;98.00;5.7;136
+32657;Percy Jackson & the Olympians: The Lightning Thief;Adventure Fantasy Family;95.00;6.0;2010
+607;Men in Black;Action Adventure Comedy Science Fiction;90.00;6.9;4412
+863;Toy Story 2;Animation Comedy Family;90.00;7.3;3806
+44048;Unstoppable;Action Thriller;100.00;6.3;1165
+5175;Rush Hour 2;Action Comedy Crime Thriller;90.00;6.4;1054
+2655;What Lies Beneath;Drama Horror Mystery Thriller;100.00;6.3;488
+22794;Cloudy with a Chance of Meatballs;Animation Comedy Family;100.00;6.5;1747
+8355;Ice Age: Dawn of the Dinosaurs;Animation Comedy Family Adventure;90.00;6.5;2271
+116745;The Secret Life of Walter Mitty;Adventure Comedy Drama Fantasy;90.00;7.0;3144
+4327;Charlie's Angels;Action Adventure Comedy Crime Thriller;92.00;5.6;1232
+1422;The Departed;Drama Thriller Crime;90.00;7.9;4339
+10674;Mulan;Animation Family Adventure;90.00;7.6;2008
+7446;Tropic Thunder;Action Comedy;92.00;6.5;1667
+65754;The Girl with the Dragon Tattoo;Thriller Crime Mystery Drama;90.00;7.2;2434
+1572;Die Hard: With a Vengeance;Action Thriller;90.00;6.9;2066
+10528;Sherlock Holmes;Action Adventure Crime Mystery;90.00;7.0;5766
+271969;Ben-Hur;Drama;100.00;5.3;621
+10865;Atlantis: The Lost Empire;Animation Family Adventure Science Fiction;120.00;6.7;1224
+2253;Valkyrie;Drama Thriller History War;75.00;6.7;1173
+10661;You Don't Mess with the Zohan;Comedy Action;90.00;5.5;1048
+257344;Pixels;Action Comedy Science Fiction;88.00;5.6;2513
+644;A.I. Artificial Intelligence;Drama Science Fiction Adventure;100.00;6.8;1974
+10756;The Haunted Mansion;Thriller Fantasy Comedy Family Mystery;90.00;5.2;466
+686;Contact;Drama Science Fiction Mystery;90.00;7.2;1308
+9383;Hollow Man;Action Science Fiction Thriller;95.00;5.6;634
+179;The Interpreter;Crime Thriller;80.00;6.2;392
+76285;Percy Jackson: Sea of Monsters;Adventure Family Fantasy;90.00;5.9;1648
+1996;Lara Croft Tomb Raider: The Cradle of Life;Action Adventure Fantasy Thriller;95.00;5.5;1418
+291805;Now You See Me 2;Action Adventure Comedy Crime Mystery;90.00;6.7;3235
+10003;The Saint;Thriller Action Romance Science Fiction Adventure;68.00;5.9;302
+1535;Spy Game;Action Crime Thriller;92.00;6.8;579
+2067;Mission to Mars;Science Fiction;90.00;5.7;369
+46195;Rio;Animation Adventure Comedy Family;90.00;6.5;2166
+2277;Bicentennial Man;Comedy Science Fiction;100.00;6.9;963
+10357;Volcano;Science Fiction Action Drama Thriller;90.00;5.2;376
+4477;The Devil's Own;Crime Thriller Drama;90.00;5.9;290
+8665;K-19: The Widowmaker;Drama History Thriller;100.00;6.1;264
+9387;Conan the Barbarian;Adventure Fantasy Action;20.00;6.6;650
+921;Cinderella Man;Romance Drama History;88.00;7.3;616
+49852;The Nutcracker: The Untold Story;Fantasy Action Family;90.00;5.4;50
+4464;Seabiscuit;Drama History;87.00;6.7;216
+664;Twister;Action Adventure Drama;92.00;6.1;950
+8358;Cast Away;Adventure Drama;90.00;7.5;3218
+9836;Happy Feet;Animation Comedy;100.00;5.9;1410
+2502;The Bourne Supremacy;Action Drama Thriller;75.00;7.2;2825
+9772;Air Force One;Action Thriller;85.00;6.2;840
+161;Ocean's Eleven;Thriller Crime;85.00;7.2;3783
+52451;The Three Musketeers;Adventure Action Thriller;75.00;5.6;924
+76492;Hotel Transylvania;Animation Comedy Family Fantasy;85.00;6.8;2566
+4523;Enchanted;Comedy Family Fantasy Romance;85.00;6.6;1449
+59961;Safe House;Action Thriller;85.00;6.3;1345
+10481;102 Dalmatians;Comedy Family;85.00;5.1;313
+59108;Tower Heist;Action Comedy;75.00;5.8;932
+1581;The Holiday;Comedy Romance;85.00;6.7;1225
+9798;Enemy of the State;Action Drama Thriller;90.00;6.7;1240
+22897;It's Complicated;Comedy Romance;85.00;6.2;360
+298;Ocean's Thirteen;Crime Thriller;85.00;6.5;1999
+7484;Open Season;Adventure Animation Family;85.00;6.1;656
+157350;Divergent;Adventure Action Science Fiction;85.00;6.9;4663
+853;Enemy at the Gates;War;68.00;7.2;999
+10159;The Rundown;Adventure Action Comedy Thriller;85.00;6.4;514
+9593;Last Action Hero;Adventure Fantasy Action Comedy Family;85.00;6.1;712
+1904;Memoirs of a Geisha;Drama History Romance;85.00;7.3;652
+9615;The Fast and the Furious: Tokyo Drift;Action Crime Drama Thriller;85.00;6.1;1705
+297;Meet Joe Black;Fantasy Drama Mystery;90.00;6.9;1147
+9884;Collateral Damage;Action Thriller Drama;85.00;5.5;427
+62764;Mirror Mirror;Adventure Fantasy Drama Comedy Science Fiction;85.00;5.5;1114
+22538;Scott Pilgrim vs. the World;Action Adventure Comedy;60.00;7.2;2126
+9341;The Core;Action Thriller Adventure Science Fiction;60.00;5.4;516
+12107;Nutty Professor II: The Klumps;Fantasy Comedy Romance Science Fiction;84.00;4.7;332
+9637;Scooby-Doo;Mystery Adventure Comedy;84.00;5.4;820
+49049;Dredd;Action Science Fiction;50.00;6.6;1940
+9339;Click;Comedy Drama Fantasy Romance;82.50;6.0;2104
+16281;Creepshow;Horror Comedy Fantasy;8.00;6.7;226
+39691;Cats & Dogs 2 : The Revenge of Kitty Galore;Comedy Family;85.00;4.9;119
+8247;Jumper;Adventure Fantasy Science Fiction;85.00;5.9;1799
+11253;Hellboy II: The Golden Army;Adventure Fantasy Science Fiction;85.00;6.5;1527
+1949;Zodiac;Crime Drama Mystery Thriller;65.00;7.3;2023
+8452;The 6th Day;Science Fiction;82.00;5.7;595
+310;Bruce Almighty;Fantasy Comedy;80.00;6.4;3012
+27578;The Expendables;Thriller Adventure Action;80.00;6.0;2926
+954;Mission: Impossible;Adventure Action Thriller;80.00;6.7;2631
+70160;The Hunger Games;Science Fiction Adventure Fantasy;75.00;6.9;9455
+45243;The Hangover Part II;Comedy;80.00;6.2;3739
+364;Batman Returns;Action Fantasy;80.00;6.6;1673
+7518;Over the Hedge;Comedy Animation Family;80.00;6.3;1074
+11544;Lilo & Stitch;Animation Family;80.00;7.1;1314
+9986;Charlotte's Web;Comedy Family Fantasy;85.00;5.8;288
+8656;Deep Impact;Action Drama Romance;75.00;5.9;855
+146216;RED 2;Action Comedy Crime Thriller;84.00;6.4;1526
+9291;The Longest Yard;Comedy Drama;82.00;6.2;785
+55301;Alvin and the Chipmunks: Chipwrecked;Comedy Fantasy Family Music Animation;75.00;5.4;484
+109418;Grown Ups 2;Comedy;80.00;5.8;1155
+11665;Get Smart;Action Comedy Thriller;80.00;6.0;1051
+6964;Something's Gotta Give;Drama Comedy Romance;80.00;6.3;410
+11324;Shutter Island;Drama Thriller Mystery;80.00;7.8;6336
+12193;Four Christmases;Comedy Romance Drama;80.00;5.3;331
+9928;Robots;Animation Comedy Family Science Fiction;75.00;6.0;1333
+754;Face/Off;Action Crime Science Fiction Thriller;80.00;6.8;1583
+10202;Bedtime Stories;Fantasy Comedy Family Romance;80.00;5.9;901
+4147;Road to Perdition;Thriller Crime Drama;80.00;7.3;1077
+50546;Just Go with It;Romance Comedy;80.00;6.3;1543
+1701;Con Air;Action Thriller Crime;75.00;6.5;1270
+13027;Eagle Eye;Mystery Thriller Action;80.00;6.3;1018
+2289;Cold Mountain;Drama;79.00;6.7;533
+20504;The Book of Eli;Action Thriller Science Fiction;80.00;6.6;2164
+9574;Flubber;Comedy Family Science Fiction;80.00;5.3;695
+11618;The Haunting;Horror Thriller Fantasy Mystery;80.00;5.2;369
+2300;Space Jam;Animation Comedy Drama Family Fantasy;80.00;6.5;1288
+10200;The Day the Earth Stood Still;Drama Science Fiction Thriller;80.00;5.2;1043
+8834;Conspiracy Theory;Action Drama Mystery Thriller;75.00;6.5;431
